@@ -1,18 +1,18 @@
 {
   "app": "BYDMAX",
-  "latest_version": "3.1.0",
-  "version_code": 310,
-  "released_at": "2026-10-21T09:28:00Z",
+  "latest_version": "3.1.1",
+  "version_code": 311,
+  "released_at": "2026-10-21T17:03:00Z",
   "min_supported_version_code": 200,
   "force_update": false,
-  "release_notes": "3.1.0：应用内更新检测切换为国内可达的 Gitee 镜像源（GitHub 仅作兜底）；APK 下载完成后校验 SHA-256 与文件大小，校验通过才安装；修复部分网络环境下更新下载失败的问题。",
+  "release_notes": "3.1.1：基于 v3.1.0 更新通道发布的新版本（同签名，可直接覆盖安装）；沿用 Gitee 主源 + GitHub 兜底的更新检测，APK 下载完成后校验 SHA-256 与文件大小，校验通过才安装。",
   "apk": {
-    "file_name": "BYDMAX-v3.1.0.apk",
-    "size_bytes": 14443176,
-    "sha256": "01174f07508b2c2585a34eb9fc548e6257d7d456c1c69e79592d791c3cf792e2",
+    "file_name": "BYDMAX-v3.1.1.apk",
+    "size_bytes": 14443172,
+    "sha256": "833fc721bac96ad2b322f99a507a05e0ebfaaa8db505910d38a8d9406b82ade1",
     "urls": [
-      "https://gitee.com/zheng-mantou/BYDMAX/releases/download/v3.1.0/BYDMAX-v3.1.0.apk",
-      "https://github.com/duchgfnc/BYDMAX/releases/download/v3.1.0/BYDMAX-v3.1.0.apk"
+      "https://gitee.com/zheng-mantou/BYDMAX/releases/download/v3.1.1/BYDMAX-v3.1.1.apk",
+      "https://github.com/duchgfnc/BYDMAX/releases/download/v3.1.1/BYDMAX-v3.1.1.apk"
     ]
   }
 }
