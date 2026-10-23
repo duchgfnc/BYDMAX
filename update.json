@@ -1,18 +1,18 @@
 {
   "app": "BYDMAX",
-  "latest_version": "2.1.1",
-  "version_code": 211,
-  "released_at": "2026-10-22T16:32:44Z",
+  "latest_version": "3.1.3",
+  "version_code": 313,
+  "released_at": "2026-10-23T05:35:35Z",
   "min_supported_version_code": 200,
   "force_update": false,
-  "release_notes": "- versionCode 211 / versionName 2.1.1；- 语言模块恢复为官方六语言：Русский / English / 简体中文 / Português / Polski / Беларуская，初始语言默认中文，设置与首次启动引导同步生效；- 修复首页叠加照片更换自定义图片后的拖影闪现（旧图保留至新图解码完成，原子替换）；- 首页里程卡片移除「累计 x km · x ",
+  "release_notes": "修复过程中发现的隐藏BUG",
   "apk": {
-    "file_name": "BYDMAX-v2.1.1.apk",
-    "size_bytes": 14443172,
-    "sha256": "536c8b3ea0567dcd6f331b94b44eb11ffe11fb7f3da6b4456df68107f8cd4a7b",
+    "file_name": "BYDMAX-v3.1.3.apk",
+    "size_bytes": 14451712,
+    "sha256": "8e50cc28c37067ee20baab19d6f112e2737dcc887811d184b636006f7a0accc7",
     "urls": [
-      "https://gitee.com/zheng-mantou/BYDMAX/releases/download/v2.1.1/BYDMAX-v2.1.1.apk",
-      "https://github.com/duchgfnc/BYDMAX/releases/download/v2.1.1/BYDMAX-v2.1.1.apk"
+      "https://gitee.com/zheng-mantou/BYDMAX/releases/download/v3.1.3/BYDMAX-v3.1.3.apk",
+      "https://github.com/duchgfnc/BYDMAX/releases/download/v3.1.3/BYDMAX-v3.1.3.apk"
     ]
   }
 }
