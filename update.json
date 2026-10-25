@@ -2,7 +2,7 @@
   "app": "BYDMAX",
   "latest_version": "3.1.4",
   "version_code": 314,
-  "released_at": "2026-10-24T04:42:37Z",
+  "released_at": "2026-10-25T01:39:43Z",
   "min_supported_version_code": 200,
   "force_update": false,
   "release_notes": "修复过程中发现的隐藏BUG",
