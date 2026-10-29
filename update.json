@@ -1,7 +1,7 @@
 {
   "app": "BYDMAX",
   "latest_version": "3.1.5",
-  "version_code": 315,
+  "version_code": 319,
   "released_at": "2026-10-29T04:15:47Z",
   "min_supported_version_code": 200,
   "force_update": false,
