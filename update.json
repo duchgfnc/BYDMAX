@@ -1,18 +1,18 @@
 {
   "app": "BYDMAX",
-  "latest_version": "4.0.2",
-  "version_code": 353,
-  "released_at": "2026-10-31T17:05:51Z",
+  "latest_version": "4.1.0",
+  "version_code": 355,
+  "released_at": "2026-11-01T08:11:00Z",
   "min_supported_version_code": 200,
   "force_update": false,
   "release_notes": "完善算法",
   "apk": {
-    "file_name": "BYDMAX-v4.0.2.apk",
-    "size_bytes": 16277582,
-    "sha256": "7917b6ae0ea5649aec2f96579f00ec6136c4bffbc82ce7ec393c42e55e61233d",
+    "file_name": "BYDMAX-v4.1.0.apk",
+    "size_bytes": 16264697,
+    "sha256": "f8aa6f80fc7c92a131549e8eaaabe237581390ecb92c0895db14fbf5c5b70495",
     "urls": [
-      "https://gitee.com/zheng-mantou/BYDMAX/releases/download/v4.0.2/BYDMAX-v4.0.2.apk",
-      "https://github.com/duchgfnc/BYDMAX/releases/download/v4.0.2/BYDMAX-v4.0.2.apk"
+      "https://gitee.com/zheng-mantou/BYDMAX/releases/download/v4.1.0/BYDMAX-v4.1.0.apk",
+      "https://github.com/duchgfnc/BYDMAX/releases/download/v4.1.0/BYDMAX-v4.1.0.apk"
     ]
   }
 }
