@@ -52,7 +52,7 @@ BYDMAX —— 让每一次出行都心中有数。
 致谢
 
 (bydmate）-AndyShaman-(https://github.com/AndyShaman/BYDMate) 
-BYD Trip Info (org.jayb.bydapp) by jayb — оригинальное приложение для DiLink, вдохновение для BYDMate
+BYD Trip Info (org.jayb.bydapp) by jayb — оригинальное приложение для DiLink, вдохновение для BYDMAX
 
 DiPlus (迪加) by Van Design — приложение-мост к данным автомобиля, использовалось в ранних версиях BYDMate (с 3.0.0 больше не требуется)
 
