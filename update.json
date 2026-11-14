@@ -1,18 +1,18 @@
 {
   "app": "BYDMAX",
-  "latest_version": "4.1.9",
-  "version_code": 1041,
-  "released_at": "2026-11-11T11:44:05Z",
+  "latest_version": "4.2.0",
+  "version_code": 1043,
+  "released_at": "2026-11-14T16:42:50Z",
   "min_supported_version_code": 200,
   "force_update": false,
-  "release_notes": "完善算法",
+  "release_notes": "修复悬浮窗组件，盲区影像修复",
   "apk": {
-    "file_name": "BYDMAX-v4.1.9.apk",
-    "size_bytes": 15165258,
-    "sha256": "f7c856624f0a20c5a82088d36e513d7fab0ecaaa9bcd2bed4f66ebb4b25180e7",
+    "file_name": "BYDMAX-v4.2.0.apk",
+    "size_bytes": 15182594,
+    "sha256": "40e083eb7a661880075adb45cac2253ae82ac1c4372e2265e3bff8953a562087",
     "urls": [
-      "https://gitee.com/zheng-mantou/BYDMAX/releases/download/v4.1.9/BYDMAX-v4.1.9.apk",
-      "https://github.com/duchgfnc/BYDMAX/releases/download/v4.1.9/BYDMAX-v4.1.9.apk"
+      "https://gitee.com/zheng-mantou/BYDMAX/releases/download/v4.2.0/BYDMAX-v4.2.0.apk",
+      "https://github.com/duchgfnc/BYDMAX/releases/download/v4.2.0/BYDMAX-v4.2.0.apk"
     ]
   }
 }
